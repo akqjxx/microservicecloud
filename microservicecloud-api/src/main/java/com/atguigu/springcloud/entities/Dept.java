@@ -21,6 +21,10 @@ public class Dept implements Serializable// entity --orm--- db_table
 	public Dept(String dname)
 	{
 		super();
+
+
+
+
 		this.dname = dname;
 	}
 	
