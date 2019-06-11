@@ -30,5 +30,4 @@ public class DeptController {
         return service.list();
     }
 
-
 }
