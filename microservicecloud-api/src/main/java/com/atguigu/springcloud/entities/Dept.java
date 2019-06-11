@@ -27,7 +27,7 @@ public class Dept implements Serializable// entity --orm--- db_table
 }
 
 /**
- 9.提交修改文件到GitHub
+ 9.提交修改文件到GitHub  
 
  　　新增文件（红色），右键-->Git-->add，将新增的文件加入本地仓库，此时文件变绿色
 
