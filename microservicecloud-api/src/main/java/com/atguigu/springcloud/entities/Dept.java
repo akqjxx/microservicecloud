@@ -25,3 +25,15 @@ public class Dept implements Serializable// entity --orm--- db_table
 	
 	
 }
+
+/**
+ 9.提交修改文件到GitHub
+
+ 　　新增文件（红色），右键-->Git-->add，将新增的文件加入本地仓库，此时文件变绿色
+
+ 　　修改文件（蓝色）
+
+ 　　在项目右键-->Git-->Commit Directory，查看有变动的文件并输入Commit Message，点击Commit and Push...
+
+ 　　提交后会进行语法检查，若存在错误或警告会给出确认提示，点击Commit，弹出Push框，点击Push，上传GitHub成功
+ **/
