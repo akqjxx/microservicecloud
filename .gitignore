@@ -34,5 +34,4 @@ out
 gen
 /.gitignore
 microservicecloud-api/target/
-microservicecloud-provider-dept-8001/src/main/java/
 microservicecloud-provider-dept-8001/target/
